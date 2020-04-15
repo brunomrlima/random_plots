@@ -39,7 +39,7 @@ if n_plots == n_adjacent_start:
 print("Cols: " + str(n_cols))
 print("Rows: " + str(n_rows))
 prev_list = []
-current_list = range(n_plots)
+current_list = range(1,n_plots+1)
 for i in range(n_reps):
     current_list = random.sample(current_list, len(current_list))
     if len(prev_list)!=0:
@@ -50,7 +50,7 @@ for i in range(n_reps):
 
     array = np.asarray(current_list)
     # Adding None if it's not a perfect matrix
-    none_array = np.full(n_rows*n_cols - len(current_list), None)
+    none_array = np.full(n_rows*n_cols - len(current_list), "Filler")
     array = np.append(array, none_array)
     # spliting to transform to matrix
     array = np.split(array, n_cols)
