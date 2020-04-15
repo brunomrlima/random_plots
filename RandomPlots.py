@@ -24,7 +24,7 @@ n_reps = int(input("Please enter the number of repetitions: "))
 print("you entered", n_reps)
 n_plots = int(input("Please enter the number of plots: "))
 print("you entered", n_plots)
-n_cols = int(input("Please enter the number of columns: "))
+n_cols = int(input("Please enter the number of columns per repetition: "))
 print("you entered", n_plots)
 
 n_rows = int(math.ceil(float(n_plots)/n_cols))
