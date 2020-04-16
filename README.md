@@ -1,18 +1,18 @@
 # Random Plots
 
-This project was made to help crop technicians to plant plots randomly. 
+This project was made to help crop technicians to plant plots randomly. This can help to reduce bias in their research.
 
 ## Getting Started
 
-The code used was Python 3. You can either run the script in your computer or access a website that runs Python (like https://repl.it/languages/python3)
+Python 3 was used. You can either run the script in your computer or access a website that runs Python (like https://repl.it/languages/python3)
 
 ### Prerequisites
 
-If you want to run the script in your computer: Python 3 and Numpy, Random, Math libraries.
+If you want to run the script in your computer you should install: Python 3 and Numpy, Random, Math libraries.
 
 Link on how to install Python https://realpython.com/installing-python/
 
-If not, just access a website that runs Python.
+If not, you can access a website that runs Python (https://repl.it/languages/python3).
 
 ## Authors
 
