@@ -1,6 +1,6 @@
 # Random Plots
 
-This project was made to help crop technicians to plant plots randomly. This can help to reduce bias in their research.
+This project was made to help crop technicians to plant plots randomly. Planting randomly is extremely important since it reduces bias in research.
 
 ## Getting Started
 
