@@ -8,11 +8,11 @@ The code used was Python 3. You can either run the script in your computer or ac
 
 ### Prerequisites
 
-Python 3 if you want to run in your computer. If not, just access a website that runs Python. If you want to install Python check https://realpython.com/installing-python/
+If you want to run the script in your computer: Python 3 and Numpy, Random, Math libraries.
 
-## Contributing
+Link on how to install Python https://realpython.com/installing-python/
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+If not, just access a website that runs Python.
 
 ## Authors
 
